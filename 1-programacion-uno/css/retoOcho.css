@@ -1,0 +1,17 @@
+.boton-uno {
+    padding: 10px;
+    border: 3px #000 solid;
+    background: blue;
+    color: #000;
+}
+
+.boton-dos {
+    padding: 10px;
+    border: 3px #000 solid;
+    background: blue;
+    color: #000;
+}
+
+.disabled {
+    opacity: 0.3;
+}
